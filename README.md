@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-[Demo](https://fluffykas.github.io/order-summary-component/)
+[Demo](https://phoenixmputu.github.io/Frontend-Mentor--Order-summary-component-main/)
 
 ## My process
 
